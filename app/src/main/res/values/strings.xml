@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="edit_note">Edit note</string>
+    <string name="save_note">Save note</string>
+    <string name="add_photo">Add photo</string>
+    <string name="delete_note">Delete note</string>
+    <string name="create_note">Create note</string>
+    <string name="clear_search">Clear search</string>
+</resources>
